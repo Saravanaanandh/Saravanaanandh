@@ -13,7 +13,7 @@ Web developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img width="50" height="50" src="https://img.icons8.com/material-outlined/48/api-settings.png" alt="api-settings"/>
  
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanaanandh&theme=dark&show_icons=true&&hide=issues,contribs)
+![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanaanandh&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Saravana's LeetCode Stats](https://leetcard.jacoblin.cool/SaravanaWebDev?theme=dark&font=Enriqueta&ext=contest)
 
